@@ -1,7 +1,7 @@
-IIIT Nagpur
-Roll no.:-BT22CSH026
-Branch:- CSE(HCI & GT)
-2nd Year
+//IIIT Nagpur
+//Roll no.:-BT22CSH026
+//Branch:- CSE(HCI & GT)
+//2nd Year
 #include <stdio.h>
 int main(){
 	int n ;
